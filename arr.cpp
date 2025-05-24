@@ -173,20 +173,14 @@ void Sort(){
 			}
 			break;
 		}
-	}
-	
-	
-	
-	
+	}	
 	
 }
-
-
 int main(){
 	int chose;
 	do{
 		cout<<"================================================"<<endl;
-		cout<<"               System Mangement                 "<<endl;
+		cout<<"              System Management                 "<<endl;
 		cout<<"================================================"<<endl;
 		cout<<" 1. Create the Product"<<endl;
 		cout<<" 2. Display all Product"<<endl;
